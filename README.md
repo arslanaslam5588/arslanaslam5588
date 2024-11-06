@@ -1,7 +1,13 @@
+![logo](https://github.com/arslanaslam5588/arslanaslam5588/blob/master/baner.gif)
+
+<h1 align="center">Hi 👋, I'm Arslan Aslam</h1>
+<h3 align="center">Junior Mobile Apps Developer | Passionate about crafting intuitive mobile experiences with Flutter.  Adept at utilizing Flutter, Dart, and Android & iOS Apps to deliver innovative and user-friendly solutions. Skilled in collaborating within team environments to achieve project goals. Eager to leverage academic knowledge and practical skills to contribute to cutting-edge mobile application development within a dynamic team. Seeking opportunities to contribute to innovative flutter projects and make a positive impact. Let's connect and explore the exciting possibilities in the app development space.</h3>
+
 
 ![logo](https://github.com/arslanaslam5588/arslanaslam5588/blob/master/bannerr.png)
-<h1 align="center">Hi 👋, I'm Arslan Aslam</h1>
-<h3 align="center">A passionate Mobile Apps developer with Flutter.</h3>
+
+
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
