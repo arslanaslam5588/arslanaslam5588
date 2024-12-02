@@ -11,7 +11,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/arslanaslam5588/arslanaslam5588/blob/master/gitpic.gif">
 
 - 📫 How to reach me **arslang5588@gmail.com**
 
